@@ -15,7 +15,7 @@ public class MathTester {
 
         System.out.println(total);
 
-        .out.println(firstWord+secondWord);
+        System.out.println(firstWord+secondWord);
         System.out.println("the first number plus the second number is "+ (firstNumber+secondNumber));
         System.out.println("the second number minus the first number is "+ (secondNumber-firstNumber));
         System.out.println("the second number divided the first number is "+ (secondNumber/firstNumber));
